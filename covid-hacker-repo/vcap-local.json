@@ -1,0 +1,62 @@
+{
+  "dev": {
+    "tone_analyzer": [
+      {
+        "credentials": {
+          "url": "https://gateway.watsonplatform.net/tone-analyzer/api",
+          "username": "6d6a47a6-c196-46ff-a03c-3e170656a6b3",
+          "password": "aGmMIChLAPIl"
+        }
+      }
+    ],
+    "conversation": [
+      {
+        "credentials": {
+          "url": "https://gateway.watsonplatform.net/assistant/api",
+          "username": "46d4f473-c637-4011-a1b0-0436cd36afb4",
+          "password": "5lkIjDIi0376"
+        }
+      }
+    ],
+    "cloudantNoSQLDB": [
+      {
+        "credentials": {
+            "apikey": "O4t1IkTMjFBHSDLUN30Nce-OeGlUQAv-kt3o5JlH9-G6",
+            "host": "48d41b67-b037-4850-a82c-53476175d7d8-bluemix.cloudantnosqldb.appdomain.cloud",
+            "iam_apikey_description": "Auto-generated for key 2e2c8d42-4919-4ca6-950d-b050b9dd0591",
+            "iam_apikey_name": "Service credentials-1",
+            "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+            "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/500d321e18ff4e538118af22b98a562c::serviceid:ServiceId-641319bd-1cc2-4198-871b-a6f3f5d0c532",
+            "password": "66fbe3004c9cc5a775f288bdb32991c5655badb1a033a3d5f49215efdd13db43",
+            "port": 443,
+            "url": "https://48d41b67-b037-4850-a82c-53476175d7d8-bluemix:66fbe3004c9cc5a775f288bdb32991c5655badb1a033a3d5f49215efdd13db43@48d41b67-b037-4850-a82c-53476175d7d8-bluemix.cloudantnosqldb.appdomain.cloud",
+            "username": "48d41b67-b037-4850-a82c-53476175d7d8-bluemix"
+        },
+        "label": "covid-hackers-db"
+      }
+    ]
+  },
+  "services": {
+    "cloudantNoSQLDB": [
+      {
+        "credentials": {
+
+            "apikey": "O4t1IkTMjFBHSDLUN30Nce-OeGlUQAv-kt3o5JlH9-G6",
+            "host": "48d41b67-b037-4850-a82c-53476175d7d8-bluemix.cloudantnosqldb.appdomain.cloud",
+            "iam_apikey_description": "Auto-generated for key 2e2c8d42-4919-4ca6-950d-b050b9dd0591",
+            "iam_apikey_name": "Service credentials-1",
+            "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+            "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/500d321e18ff4e538118af22b98a562c::serviceid:ServiceId-641319bd-1cc2-4198-871b-a6f3f5d0c532",
+            "password": "66fbe3004c9cc5a775f288bdb32991c5655badb1a033a3d5f49215efdd13db43",
+            "port": 443,
+            "url": "https://48d41b67-b037-4850-a82c-53476175d7d8-bluemix:66fbe3004c9cc5a775f288bdb32991c5655badb1a033a3d5f49215efdd13db43@48d41b67-b037-4850-a82c-53476175d7d8-bluemix.cloudantnosqldb.appdomain.cloud",
+            "username": "48d41b67-b037-4850-a82c-53476175d7d8-bluemix"
+        },
+        "label": "covid-hackers-db"
+      }
+    ]
+  }
+}
+
+
+
